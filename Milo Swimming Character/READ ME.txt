@@ -1,0 +1,32 @@
+BUILD - YOU CAN FIND A PREMADE BUILD IN THE BUILDS FOLDER
+
+
+Why you chose that asset?
+-I'm using unity package called "Swim Mocap Animation" for the model and the animations. I use this package, because it has good turning animations.
+
+
+Your blend logic and parameter setup
+- I'm using a 2D blend tree that will blend between two parameters: speed and turn. Speed and turn is directly linked to vertical and horizontal input respectively. 
+
+- To really sell that turning part of the character, I made the character rotate over time instead of instantly
+
+
+What worked well and what you'd polish next
+- I would like to sync this with the input system you are using. For example, link it with the new input system if that is what you are using.
+- I would love to add some more animations like backstroke and such
+- Align character movement with the camera if the player has control over the camera like in a typical Third Person view
+
+
+A quote estimate for incorporating 11 core character animations into Unity utilizing the Stylized Water 3 Unity asset by Staggart Creations.
+
+- Before I send over a quote, would you mind answering a few quick questions? That way I can give you an accurate flat rate that fits the scope and your needs:
+
+1. Will the 11 animations already be rigged and set up for Unity’s humanoid system?
+
+2. What are the animations?
+
+3. Would you like it that I also create the swimming movement system as well (handling turning, input, etc.), or is that already handled? If yes, do you need controller support?
+
+4. Do you need any scripting or interaction with Stylized Water 3 (e.g., camera effects, underwater logic), or is it visual-only?
+
+Once I have that info, I’ll send over a flat-rate quote and timeline right away.
